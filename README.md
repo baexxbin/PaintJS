@@ -4,7 +4,7 @@
 ![PaintJS🎨](https://user-images.githubusercontent.com/50795805/107375264-e3876880-6b2b-11eb-9a4f-2c805d1f5fd2.png)
 
 
-<setup 파트>     
+##### setup 파트     
 ````
  js : id 사용    
  css : class 사용    
@@ -16,7 +16,7 @@
 > ex) width : 50, border-radius : 25       
 
 
-<css 파트>
+##### css 파트
 ````
  flex    
    * 컨테이너 적용    
@@ -38,7 +38,7 @@
     padding: 50px 0px; ==> (위,아래) (오른쪽,왼쪽)       
 ````    
 
-<js 파트>     
+##### js 파트  
 canvas는 context를 가짐.     
 context는 픽셀에 접근할 수 있는 방법, ==> canvas안의 픽셀들     
 이 픽셀들을 다룰 수 있는 공간인 width, height 지정해주기    
